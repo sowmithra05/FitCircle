@@ -37,6 +37,6 @@ A full-stack fitness tracking web application built with React, Node.js, Express
 
 1. Clone the repository
 2. Install backend dependencies:
-   ```bash
+ 
    cd backend
    npm install
